@@ -33,7 +33,7 @@ Folder and files in {user}/Library/Messages
 
 Then you'll be greeted with:
 ```
-All done!
+All related iMessage files have been successfully removed!
 Do you want to reboot now? (y/n)
 ```
 Type "y" or "Y" without quotes to reboot your computer (you may need to enter your admin password to continue).
