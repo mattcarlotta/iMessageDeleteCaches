@@ -3,11 +3,11 @@ Introduction
 
 iMessageDeleteCaches is a simple automated bash script that removes iMessage files and folders stored within a user's "Library" folder 
 
-Simply unzip the folder iMessageDeleteCaches_v1.0.0.zip to your Desktop, open a Terminal window, and drag and drop the file "iMessageDeleteCaches_v1.0.0" into the Terminal window and hit the Return key.
+Simply unzip the folder iMessageDeleteCaches.zip to your Desktop, double click the iMessageDeleteCaches.command and then follow the on screen instructions.
 
 You'll be greeted with:
 ```
-"Delete iMessage related files in Caches and Preferences? (y/n)
+Would you like to delete iMessage related cache files? (y/n)?
 ```
 Type "y" or "Y" without quotes and the following folders/files will be deleted:
 ```
@@ -33,7 +33,8 @@ Folder and files in {user}/Library/Messages
 
 Then you'll be greeted with:
 ```
-All done! All related iMessage files have been successfully removed!
+All related iMessage files and folders have been successfully removed!
+
 Do you want to reboot now? (y/n)
 ```
 Type "y" or "Y" without quotes to reboot your computer (you may need to enter your admin password to continue).
