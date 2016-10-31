@@ -41,7 +41,7 @@ Type "y" or "Y" without quotes to reboot your computer (you may need to enter yo
 Otherwise, you can type "n" or "N" to abort the script and restart manually.
 
 
-*Note: If you type an invalid character, then that will abort the script! Wait a few seconds and it will restart the script for you!
+*Note: If you type an invalid character, then that will temporarily stop the script! Wait a few seconds and it will restart on its own!
 
 ```
 Changelog:
