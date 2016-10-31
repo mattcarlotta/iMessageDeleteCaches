@@ -3,7 +3,7 @@ Introduction
 
 iMessageDeleteCaches is a simple automated bash script that removes iMessage files and folders stored within a user's "Library" folder 
 
-Simply download and unzip the iMessageDeleteCaches.zip folder to your Desktop. Open the unzipped folder and double click the iMessageDeleteCaches.command and then follow the on screen instructions.
+Simply download and unzip the iMessageDeleteCaches.zip folder to your Desktop. Open the unzipped folder and double click the iMessageDeleteCaches.command file and then follow the on screen instructions.
 
 You'll be greeted with:
 ```
