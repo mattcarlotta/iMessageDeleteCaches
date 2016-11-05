@@ -1,4 +1,5 @@
-# iMessageDeleteCaches
+# DEPRECATED - see https://github.com/mfc88/iMessageTool 
+
 Introduction
 
 iMessageDeleteCaches is a simple automated bash script that removes iMessage files and folders stored within a user's "Library" folder 
