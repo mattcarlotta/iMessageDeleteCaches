@@ -1,4 +1,4 @@
-# DEPRECATED - see https://github.com/mfc88/iMessageTool 
+# DEPRECATED - see https://github.com/mattcarlotta/iMessageTool
 
 Introduction
 
